@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testResults version="1.2">
+<httpSample t="1921" it="0" lt="1889" ct="1583" ts="1585198084262" s="true" lb="Home Page" rc="200" rm="OK" tn="JMeter Users 1-2" dt="text" by="1275" sby="353" ng="5" na="5">
+  <sample t="2" it="0" lt="0" ct="0" ts="1585198086181" s="true" lb="Home Page-0" rc="200" rm="OK" tn="JMeter Users 1-2" dt="text" by="327" sby="0" ng="0" na="0"/>
+  <java.net.URL>https://qa-app.cadreon.com/portal/#/huddle/home</java.net.URL>
+</httpSample>
+<httpSample t="2285" it="0" lt="2253" ct="1949" ts="1585198083897" s="true" lb="Home Page" rc="200" rm="OK" tn="JMeter Users 1-1" dt="text" by="1276" sby="353" ng="5" na="5">
+  <sample t="2" it="0" lt="0" ct="0" ts="1585198086181" s="true" lb="Home Page-0" rc="200" rm="OK" tn="JMeter Users 1-1" dt="text" by="328" sby="0" ng="0" na="0"/>
+  <java.net.URL>https://qa-app.cadreon.com/portal/#/huddle/home</java.net.URL>
+</httpSample>
+<httpSample t="1424" it="0" lt="1392" ct="1089" ts="1585198084759" s="true" lb="Home Page" rc="200" rm="OK" tn="JMeter Users 1-3" dt="text" by="1276" sby="353" ng="5" na="5">
+  <sample t="2" it="0" lt="0" ct="0" ts="1585198086181" s="true" lb="Home Page-0" rc="200" rm="OK" tn="JMeter Users 1-3" dt="text" by="328" sby="0" ng="0" na="0"/>
+  <java.net.URL>https://qa-app.cadreon.com/portal/#/huddle/home</java.net.URL>
+</httpSample>
+<httpSample t="1161" it="0" lt="1160" ct="874" ts="1585198085259" s="true" lb="Home Page" rc="200" rm="OK" tn="JMeter Users 1-4" dt="text" by="1275" sby="353" ng="3" na="3">
+  <sample t="0" it="0" lt="0" ct="0" ts="1585198086420" s="true" lb="Home Page-0" rc="200" rm="OK" tn="JMeter Users 1-4" dt="text" by="327" sby="0" ng="0" na="0"/>
+  <java.net.URL>https://qa-app.cadreon.com/portal/#/huddle/home</java.net.URL>
+</httpSample>
+<httpSample t="1157" it="0" lt="1157" ct="872" ts="1585198085760" s="true" lb="Home Page" rc="200" rm="OK" tn="JMeter Users 1-5" dt="text" by="1275" sby="353" ng="3" na="3">
+  <sample t="0" it="0" lt="0" ct="0" ts="1585198086917" s="true" lb="Home Page-0" rc="200" rm="OK" tn="JMeter Users 1-5" dt="text" by="327" sby="0" ng="0" na="0"/>
+  <java.net.URL>https://qa-app.cadreon.com/portal/#/huddle/home</java.net.URL>
+</httpSample>
+<httpSample t="1144" it="0" lt="1143" ct="857" ts="1585198086258" s="true" lb="Home Page" rc="200" rm="OK" tn="JMeter Users 1-6" dt="text" by="1276" sby="353" ng="3" na="3">
+  <sample t="1" it="0" lt="0" ct="0" ts="1585198087401" s="true" lb="Home Page-0" rc="200" rm="OK" tn="JMeter Users 1-6" dt="text" by="328" sby="0" ng="0" na="0"/>
+  <java.net.URL>https://qa-app.cadreon.com/portal/#/huddle/home</java.net.URL>
+</httpSample>
+<httpSample t="1144" it="0" lt="1144" ct="859" ts="1585198086755" s="true" lb="Home Page" rc="200" rm="OK" tn="JMeter Users 1-7" dt="text" by="1276" sby="353" ng="3" na="3">
+  <sample t="0" it="0" lt="0" ct="0" ts="1585198087899" s="true" lb="Home Page-0" rc="200" rm="OK" tn="JMeter Users 1-7" dt="text" by="328" sby="0" ng="0" na="0"/>
+  <java.net.URL>https://qa-app.cadreon.com/portal/#/huddle/home</java.net.URL>
+</httpSample>
+<httpSample t="1147" it="0" lt="1147" ct="858" ts="1585198087254" s="true" lb="Home Page" rc="200" rm="OK" tn="JMeter Users 1-8" dt="text" by="1276" sby="353" ng="3" na="3">
+  <sample t="0" it="0" lt="0" ct="0" ts="1585198088401" s="true" lb="Home Page-0" rc="200" rm="OK" tn="JMeter Users 1-8" dt="text" by="328" sby="0" ng="0" na="0"/>
+  <java.net.URL>https://qa-app.cadreon.com/portal/#/huddle/home</java.net.URL>
+</httpSample>
+<httpSample t="1150" it="0" lt="1149" ct="863" ts="1585198087752" s="true" lb="Home Page" rc="200" rm="OK" tn="JMeter Users 1-9" dt="text" by="1276" sby="353" ng="2" na="2">
+  <sample t="0" it="0" lt="0" ct="0" ts="1585198088902" s="true" lb="Home Page-0" rc="200" rm="OK" tn="JMeter Users 1-9" dt="text" by="328" sby="0" ng="0" na="0"/>
+  <java.net.URL>https://qa-app.cadreon.com/portal/#/huddle/home</java.net.URL>
+</httpSample>
+<httpSample t="1145" it="0" lt="1145" ct="859" ts="1585198088252" s="true" lb="Home Page" rc="200" rm="OK" tn="JMeter Users 1-10" dt="text" by="1277" sby="353" ng="1" na="1">
+  <sample t="0" it="0" lt="0" ct="0" ts="1585198089397" s="true" lb="Home Page-0" rc="200" rm="OK" tn="JMeter Users 1-10" dt="text" by="329" sby="0" ng="0" na="0"/>
+  <java.net.URL>https://qa-app.cadreon.com/portal/#/huddle/home</java.net.URL>
+</httpSample>
+
+</testResults>
